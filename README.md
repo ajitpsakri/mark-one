@@ -6,4 +6,4 @@ CLI app about me
 3. Add Range Slider like you see while installig a package
 ## Links 
 1. [Check live CLI app](https://replit.com/@ajitpsakri/mark-one#index.js?embed=1&output=1)
-2. [mark-two Github Repo]()
+2. [mark-two Github Repo](https://github.com/ajitpsakri/mark-two)
