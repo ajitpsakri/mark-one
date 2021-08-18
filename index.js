@@ -4,7 +4,7 @@ let chalk  = require('chalk')
 let score  = 0;
 
 let userName = readlineSync.question("what is your name? ")
-console.log(`so ${chalk.bold(userName)} let's see how much you know about me`)
+console.log(`Welcome ${chalk.bold(userName)} let's see how much you know about me`)
 console.log(' ');
 
 
