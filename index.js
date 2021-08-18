@@ -29,6 +29,10 @@ let aboutMe =[
     question:"which gun do i like in a game? ",
     answer:"sniper",
     fullAnswer:chalk.red("Wrong, my favorite gun is sniper(before coding i was obsessed with using double sniper in pubg)")
+  },{
+    question:"What is my lucky number? ",
+    answer:"9",
+    fullAnswer:chalk.red("Wrong, My lucky number is 9")
   }
 ]
 //--------------------------------------------------
@@ -49,7 +53,7 @@ const game = ()=>{
       console.log(currentfullAnswer);
       console.log(' ');}
    }
-    console.log("Your score is "+ chalk.blue.bold(score))
+    console.log("Your score is "+ chalk.blue.bold(score)+"/5")
     if(readlineSync.question("Type 'r' to play again ")==="r") {
       console.clear();
       game();
