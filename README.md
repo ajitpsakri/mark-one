@@ -1,7 +1,7 @@
 # mark-one
 CLI app about me
 ## Future Features 
-1. Tell the user if they made high score
+1. Tell the user if they made high score✔️
 2. limit the characters of input 
 3. Add Range Slider like you see while installig a package
 ## Links 
